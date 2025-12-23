@@ -1,2 +1,1 @@
-#DevPancake repository
-DevPancake first repository
+A repository that DevPancake uses to post python code
