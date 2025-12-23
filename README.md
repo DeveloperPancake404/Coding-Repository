@@ -1,2 +1,0 @@
-# DevPancake
-DevPancake repository
