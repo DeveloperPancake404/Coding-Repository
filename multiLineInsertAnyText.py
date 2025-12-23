@@ -3,7 +3,7 @@ import tkinter as tk
 import time
 # --- Window Managment --- #
 window = tk.Tk()
-window.title("Hello")
+window.title("Type anything")
 window.geometry("300x200")
 # --- Create the input box --- #
 entry = tk.Entry(window)
