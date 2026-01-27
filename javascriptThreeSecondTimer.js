@@ -1,14 +1,5 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Press CTRL + SHIFT + I to open console in Opera GX</h1>
-<h1>Press F12 to open console in Google</h1>
-<script>
 setTimeout(() => {
 	alert("This alert was after 3 seconds")
 	console.log("This was after 3 seconds of the page being up")
 	document.body.innerHTML += "<h1>Created after three seconds</h1>"
 }, 3000);
-</script>
-</body>
-</html>
